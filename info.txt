@@ -1,0 +1,421 @@
+<div class="main">
+                <!-- Template -->
+                <div class="date">22/08/2022</div>
+                <div class="desc">
+                    <div class="subject">C++ By Sugare Sir</div>
+                    <br>
+                    <div class="info">
+                        <h3>(Theory)Information about For loop:</h3>
+                        <article>
+                            <img src="Img/c-for-loop.jpg" alt="Image" class="for_img">
+                        </article>
+                        <br>
+                        <div class="subject">Digital Techniques By Priyanka Madam</div>
+                        <br>
+                        <h3>(Theory)Information Of Number System:</h3>
+                        <div>
+                            <p>The Study of number system is important from the viewpoint of understanding how data are
+                                represented before they can be processed by any digital system including a digital computer.
+                                It is one of the most basic topics in digital electronics. In this chapter we will discuss
+                                different number systems commonly used to represent data. We will begin the discussion with
+                                the decimal number system. <br> Although it is not important for the viewpoint of digital
+                                electronics, a brief outline of this will be given to explain some of the underlying
+                                concepts used in other number systems. This will then be followed by the more commonly used
+                                number systems such as the binary, octal and hexadecimal number systems.</p>
+                            <br>
+    
+                            <article>
+                                <h3>Number System:</h3>
+                                <ul>
+                                    <li>Decimal Number System: The Decimal Number System is a radix - 10 number system an
+                                        dtherfore has 10 different digits or symbols. These are 0, 1, 2, 3, 4, 5, 6, 7, 8
+                                        and 9. <br> The Place value of different digits in a mixed decimal number, starting
+                                        from the decimal point are 10 <sup>0</sup>, 10 <sup>1</sup>, 10 <sup>2</sup> and so
+                                        on (for the integer part) and 10 <sup>-1</sup>, 10 <sup>-2</sup>, 10 <sup>-3</sup>
+                                        and so on (for the fractional part). <br> The value or magnitude of a given decimal
+                                        number can be expressed as the sum of the various digits multiplied by their place
+                                        values or weights. <br> As an Illustration, in the case of decimal number 3586.265
+                                        the integer part (i.e. 3586) can be expressed as <br> 3586 = 6*10<sup>0</sup> +
+                                        8*10<sup>1</sup> + 5*10<sup>2</sup> + 3*10<sup>3</sup> = 6 + 80 + 500 + 3000 = 3586
+                                        and the fractional part can be expressed as 265 = 2*10<sup>-1</sup> +
+                                        6*10<sup>-2</sup> + 5*10<sup>-3</sup> = 0.2 + 0.06 + 0.005 = 0.265</li>
+                                    <br>
+                                    <li>Binary Number System: The Binary System is radix - 2 number system with '0' and '1'
+                                        as the two independent digits. Binary Number are 2<sup>0</sup>, 2<sup>1</sup>,
+                                        2<sup>2</sup> and so on (for the integer part) and 2<sup>-1</sup>, 2<sup>-2</sup>,
+                                        2<sup>-3</sup> and so on (for the fractional part).</li>
+                                    <br>
+                                    <li>Octal Number System: The Octal Number System is the radix of the 8 and therefore has
+                                        eight distinct digits. 0, 1, 2, 3, 4, 5, 6, 7. We make Higher Number Combination
+                                        with the help of combination of these 8 numbers. In Fact, if we omit all the number
+                                        containng the digits 8 or 9, or both, from the decimal number system, we end up with
+                                        an octal number system. The place values for the different digits int he octal
+                                        number system are 8<sup>0</sup>, 8<sup>1</sup>, 8<sup>2</sup> and so on (for the
+                                        integer part) and 8<sup>-1</sup>, 8<sup>-2</sup>, 8<sup>-3</sup> and so on (for the
+                                        fractional part).</li>
+                                    <br>
+                                    <li>Hexadecimal Number System: The Hexadecimal number system is a radix - 16 number
+                                        system and its 16 basic digits are 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E and
+                                        F. The place values or weights of different digits in a mixed hexadecimal number are
+                                        16<sup>0</sup>, 16<sup>1</sup>, 16<sup>2</sup> and so on (for the integer part) and
+                                        16<sup>-1</sup>, 16<sup>-2</sup>, 16<sup>-3</sup> and so on (for the fractional
+                                        part). The decimal equivalent of A, B, C, D, E and F are 10, 11, 12, 13, 14, 15
+                                        respectively.</li>
+                                </ul>
+                            </article>
+                            <br>
+    
+    
+                        </div>
+                    </div>
+                </div>
+    
+                <br>
+    
+                <!-- Template -->
+                <!-- Template -->
+                <div class="date">23/08/2022</div>
+                <div class="desc">
+                    <div class="subject">Computer Graphics By Kazi Sir</div>
+                    <br>
+                    <div class="info">
+                        <h3>(Theory)Basic Of Computer Graphics:</h3>
+                        <article>
+                            <dl>
+                                <dt>Defination Of Pixel:</dt>
+                                <dd>Smallest Addressable Unit on the screen is called Pixel. That is a <u>picture
+                                        element</u>
+                                    the intensity of a pixel is vary in nature (i.e. 0 to 255/256 color intensity) and color
+                                    possibilities are 256 into 56 into 256.</dd>
+    
+                                <dt>Defination Of Resolution:</dt>
+                                <dd>Resolution is a Number of Rows that appear from top to bottom of a screen. OR A
+                                    Resolution is Number of pixels per unit area. like 1 by 1 box.</dd>
+    
+                            </dl>
+                        </article>
+                        <br>
+                        <div class="subject">Digital Techniques By Priyanka Madam</div>
+                        <br>
+                        <h3>(Theory)Information Of Number System:</h3>
+                        <table border="1">
+                            <th>Decimal</th>
+                            <th>Binary</th>
+                            <th>Octal</th>
+                            <th>Hexadecimal</th>
+    
+                            <tr>
+                                <td>0</td>
+                                <td>0000</td>
+                                <td>0</td>
+                                <td>0</td>
+                            </tr>
+    
+                            <tr>
+                                <td>1</td>
+                                <td>0001</td>
+                                <td>1</td>
+                                <td>1</td>
+                            </tr>
+    
+                            <tr>
+                                <td>2</td>
+                                <td>0010</td>
+                                <td>2</td>
+                                <td>2</td>
+                            </tr>
+    
+                            <tr>
+                                <td>3</td>
+                                <td>0011</td>
+                                <td>3</td>
+                                <td>3</td>
+                            </tr>
+    
+                            <tr>
+                                <td>4</td>
+                                <td>0100</td>
+                                <td>4</td>
+                                <td>4</td>
+                            </tr>
+    
+                            <tr>
+                                <td>5</td>
+                                <td>0101</td>
+                                <td>5</td>
+                                <td>5</td>
+                            </tr>
+    
+                            <tr>
+                                <td>6</td>
+                                <td>0110</td>
+                                <td>6</td>
+                                <td>6</td>
+                            </tr>
+    
+                            <tr>
+                                <td>7</td>
+                                <td>0111</td>
+                                <td>7</td>
+                                <td>7</td>
+                            </tr>
+    
+                            <tr>
+                                <td>8</td>
+                                <td>1000</td>
+                                <td></td>
+                                <td>8</td>
+                            </tr>
+    
+                            <tr>
+                                <td>9</td>
+                                <td>1001</td>
+                                <td></td>
+                                <td>9</td>
+                            </tr>
+    
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td>A(10)</td>
+                            </tr>
+    
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td>B(11)</td>
+                            </tr>
+    
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td>C(12)</td>
+                            </tr>
+    
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td>D(13)</td>
+                            </tr>
+    
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td>E(14)</td>
+                            </tr>
+    
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td>F(15)</td>
+                            </tr>
+                        </table>
+                        <center>Number System Conversion In Different Systems</center>
+                        <br>
+                        <article>
+                            <p>Types of Number System:</p>
+                            <ul type="square">
+                                <li>Binary Number System</li>
+                                <li>Decimal Number System</li>
+                                <li>Octal Number System</li>
+                                <li>Hexadecimal Number System</li>
+                            </ul>
+                            <br>
+    
+                            <div>
+                                <p>1. Binary Number System: Binary Number System uses only two digits 0's and 1's the
+                                    numbers in this system have a base of 2. Digits 0 and 1 are called Bits and 8-Bits
+                                    together made one byte.</p>
+                                <br>
+                                <p>For Example: (11101)<sub>2</sub></p>
+                                <br>
+                                <p>2. Decimal Number System: Decimal Number System uses 10 digits 0, 1, 2, 3, 4, 5, 6, 7, 8,
+                                    9 with the base number as 10. The Decimal Number System is the system that we generally
+                                    used to represent numbers in real life if any number is represented without base, It
+                                    means that its base is 10.</p>
+                                <br>
+                                <p>For Example: (723)<sub>10</sub></p>
+                                <br>
+                                <p>3. Octal Number System: The Octal Number System uses 8 digits 0, 1, 2, 3, 4, 5, 6, 7 with
+                                    the base of 8. The Advantage of this system is that it has lesser digits when compare to
+                                    several other system digits. There would be fewer computational errors. Digits like 8
+                                    and 9 are not included in octal number system. Just as binary, octal number system is
+                                    used in mini computers. But with digits from 0 to 7.</p>
+                                <br>
+                                <p>For Example: (35)<sub>8</sub></p>
+                                <br>
+                                <p>4. Hexadecimal Number System: The Hexadecimal Number System uses 16 digits - alphabets 0,
+                                    1, 2, 3, 4, 5, 6, 7, 8, 9, (10) A, (11) B, (12) C, (13) D, (14) E, (15) F. Base 16 Here,
+                                    A to F of the Hexadecimal system means the Number 10 to 15 of the Hexadecimal Number
+                                    System. Decimal Number System including respectively.</p>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+    
+                <br>
+    
+                <!-- Template -->
+                <div class="date">24/08/2022</div>
+                <div class="desc">
+                    <div class="subject">Computer Graphics By Kazi Sir</div>
+                    <br>
+                    <div class="info">
+                        <h3>(Theory)Basic Of Computer Graphics:</h3>
+                        <article>
+                            <dl>
+                                <dt>Defination Of Pixel:</dt>
+                                <dd>Smallest Addressable Unit on the screen is called Pixel. That is a <u>picture
+                                        element</u>
+                                    the intensity of a pixel is vary in nature (i.e. 0 to 255/256 color intensity) and color
+                                    possibilities are 256 into 56 into 256.</dd>
+    
+                                <dt>Defination Of Resolution:</dt>
+                                <dd>Resolution is a Number of Rows that appear from top to bottom of a screen. OR A
+                                    Resolution is Number of pixels per unit area. like 1 by 1 box.</dd>
+    
+                            </dl>
+                            <br>
+                            <p>Modes:</p>
+                            <p>1.Text Mode</p>
+                            <p>2.Graphics Mode</p>
+                            <br>
+                            <p>Text Mode: It is used to display textual data. It divides a screen into 25 rows and 80
+                                columns. In text mode each box can contain 1 character. <br> Text Mode is also known as
+                                character mode or alphanumeric mode.</p>
+                            <br>
+                            <p>Graphics Mode: A Graphics mode is sophsticated (easy to use). The Programs that runs in a
+                                graphics mode can display an unlimited <u>variety of shapes (images and fonts)</u> A Program
+                                that runs entirely in a graphics mode are called Graphics programs/mode.</p>
+                            <br>
+                            <p>In a graphics mode the screen is divided into <u>pixels</u>. <br> The shapes and fonts are
+                                derived (drawn) or derived from by the combination of different pixel.</p>
+                        </article>
+    
+                    </div>
+                    <div class="subject">(Theory) Digital Techniques By Priyanka Madam</div>
+                    <br>
+                    <article>
+                        <ul>
+                            <p>* Conversion Rules of Number System:</p>
+                            <li>Conversion Rules of Binary into the decimal system</li>
+                            <br>
+                            <p>Convert (10011)<sub>2</sub> to Binary into the decimal system</p>
+                            <br>
+                            <p>(100111)<sub>2</sub></p>
+                            1 * 2<sup>0</sup> = 1 * 1 = 1
+                            <br>
+                            1 * 2<sup>1</sup> = 1 * 2 = 1
+                            <br>
+                            1 * 2<sup>2</sup> = 1 * 4 = 1
+                            <br>
+                            0 * 2<sup>3</sup> = 0 * 6 = 1
+                            <br>
+                            0 * 2<sup>4</sup> = 0 * 16 = 1
+                            <br>
+                            1 * 2<sup>5</sup> = 1 * 32 = 1
+                            <br>
+                            Total : 39
+                            <br>
+                            Therefore, (100111)<sub>2</sub> = (39)<sub>10</sub>
+                        </ul>
+                        <ul>
+                            <li>Step 1: Identify the base of given number.</li>
+                            <li>Step 2: Multiply each digit of teh given number starting from teh right most digits with
+                                exponents of base . The Exponents should start with zero and increase by one. Every time aas
+                                we move form right to left. Since, teh base is 2 here, we multiply the digits of the given
+                                number by 2<sup>0</sup>, 2<sup>1</sup>, 2<sup>2</sup>, .... 2<sup>n</sup> and so on from
+                                right to left.</li>
+                            <li>Step 3: We just simplify each of the above products and add them.</li>
+                        </ul>
+                    </article>
+    
+                </div>
+                <br>
+    
+                <!-- Template -->
+                <div class="date">26/08/2022</div>
+                <div class="desc">
+                    <div class="subject">(Theory) Digital Techniques By Priyanka Madam</div>
+                    <br>
+                    <div class="info">
+                        <h3>Home Work Assignment 1</h3>
+                        <article>
+                            <ul>
+                                <li>Q1. Convert Binary Number (1011.01)<sub>2</sub> into its decimal equivalent. Convert the
+                                    Binary into Octal, Decimal, Hexadecimal.</li>
+                                <br>
+                                <li>Q2. Convert (204)<sub>10</sub> = (?)<sub>8</sub> into its Octal number, Hexadecimal,
+                                    Binary Number System.</li>
+                                <br>
+                                <li>Q3. Convert (43)<sub>8</sub> = (?)<sub>10</sub> = (?)<sub>2</sub> = (?)<sub>16</sub>
+                                </li>
+                            </ul>
+                            
+                        </article>
+    
+    
+                    </div>
+                </div>
+                <br>
+                <!-- Template -->
+                <div class="date">29/08/2022</div>
+                <div class="desc">
+                    <div class="subject">(Theory) Digital Techniques By Priyanka Madam</div>
+                    <br>
+                    <div class="info">
+                        <!-- <h3>Home Work Assignment 1</h3> -->
+                        <article>
+                            <ul>
+                                <li>1's Compliment Of a Binary Number </li>
+                                <p>The 1's and 2's compliment of a binary number are important because we can use them for
+                                    representation of negative numbers. <br> The 1's compliment of a number is found by
+                                    inventing all the bits in that number.The 1's compliment system is very easy to
+                                    implement merely. Using inverters.</p>
+                                <br>
+                                <li>Q. Obtain the 1's compliment of the following numbers. <br> (1010)<sub>2</sub> -> 0101.
+                                </li>
+                                <br>
+                                <li>2's Compliment of a Binary Number </li>
+                                <p>The 2's compliment of a binary number is obtain by adding 1 to the LSB (Least Significant
+                                    Bit) of 1's compliment of that number. <br> Therefore, 2's compliment is equal to 1's
+                                    compliment (+) one the method of 2's compliment is Arithmetic is commonly is used in
+                                    computer to handle negative number.</p>
+                                <br>
+                                <li>Q. Obtain the 2's compliment of (10110010)<sub>2</sub></li>
+                                <pre>
+                                </pre>
+                                <p>10110010</p>
+                                <p>01001101</p>
+                                <p>+       1</p>
+                                <hr>
+                                <p>01001110</p>
+                                <br>
+                                <li>Substraction using 1's Compliment:</li>
+                                <p>The Steps to be followed (A)<sub>2</sub> - (B)<sub>2</sub> using 1's compliment are as follows</p>
+                                <br>
+                                <p>Step 1: Convert Number to be substracted to its 1's compliment (B)<sub>2</sub> to its 1's compliment.</p>
+                                <br>
+                                <p>Step 2: Add (A)<sub>2</sub> and 1's compliment of (B)<sub>2</sub> using the binary addition.</p>
+                                <br>
+                                <p>Step 3: If final carry is 1, then add it to the result of addition obtained in step 2 to get the final result of (A)<sub>2</sub> - (B)<sub>2</sub> Note that if the final carry is 1 then the substraction is positive and in its true form.</p>
+                                <br>
+                                <p>Step 4: If the final carry produced in step 2 is 0, then the result obtained in step 2 is negative and in the 1's compliment form. So convert it into the true form by complementing all the bits.</p>
+                            </ul>
+                            
+                        </article>
+    
+    
+                    </div>
+                </div>
+    
+                <div class="desc">
+                    
+                </div>
+            </div>

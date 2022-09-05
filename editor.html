@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>आजचा अभ्यास!</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="copied.css">
+    <link rel="stylesheet" href="utilities.css">
+    <style type="text/css" media="screen">
+        #editor {
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <!-- <img src="Img/download.jpg" alt="Image" class="book"> -->
+        <h1>आजचा अभ्यास</h1>
+        <!-- <img src="Img/emoji.PNG" alt="Image"> -->
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="docs.html">Docs</a></li>
+                <li><a href="editor.html" class="active">Editor</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div id="editor">function foo(items) {
+        var x = "All this is syntax highlighted";
+        return x;
+        }</div>
+
+    <script src="js/ace.js" type="text/javascript" charset="utf-8"></script>
+    <script>
+        var editor = ace.edit("editor");
+        editor.setTheme("ace/theme/monokai");
+        editor.session.setMode("ace/mode/javascript");
+    </script>
+</body>
+
+</html>
